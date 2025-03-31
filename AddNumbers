@@ -2,9 +2,9 @@
 # This is a program that adds two numbers
 
 #Variables
-# Integer z
-# Integer x
-# Integer y
+# Integer firstNumber
+# Integer secondNumber
+# Integer sum
 
-z = x + y
-print("The total is ", z)
+sum = firstNumber + secondNumber
+print("The total of the two numbers is ", sum)
